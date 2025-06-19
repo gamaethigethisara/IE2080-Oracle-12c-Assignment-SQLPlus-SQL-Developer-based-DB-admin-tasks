@@ -18,7 +18,7 @@ This project demonstrates real-world database administration skills using **Orac
 
 ## 📂 Files Included
 
-- 📄 `IT23584990_Assignment.pdf` – Full assignment report with screenshots & SQL commands  
+- 📄 [Download Report (PDF)](./IT23584990_Assignment%20_Managing%20Oracle12C%20and%20SQL%20Developer%20software.pdf) – Full assignment report with screenshots & SQL commands  
 - 📸 `screenshots/` – Screenshot folder with step-by-step evidence  
 - 📥 Video demonstrations (see below)
 
@@ -46,7 +46,7 @@ This project demonstrates real-world database administration skills using **Orac
 
 ## 🔗 Quick Links
 
-- 📄 [Download Report (PDF)](./IT23584990_Assignment.pdf)
+- 📄 [Download Report (PDF)](./IT23584990_Assignment%20_Managing%20Oracle12C%20and%20SQL%20Developer%20software.pdf)
 - 🎬 [Watch CMD + SQL Walkthrough](https://drive.google.com/file/d/1crp6eOybHBjQo7b_9iudk9GRa57YGn__/view?usp=drive_link)
 - 🎬 [Watch Additional Demo](https://drive.google.com/file/d/1M-V1p6CpVkLIjCx7KDOWzStcSNFWU7Wd/view?usp=drive_link)
 
